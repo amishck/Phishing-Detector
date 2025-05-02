@@ -1,5 +1,7 @@
 # Phishing-Detector 🛡️🔍
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 ![Extension Icon](icons/icon128.png)
 
 A Chrome extension that actively protects users from phishing attacks by analyzing websites in real-time and alerting about potential threats.

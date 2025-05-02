@@ -65,6 +65,11 @@ chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
     
     continueLink.appendChild(link);
     
+    const credit = document.createElement('div');
+    credit.style.marginTop = '10px';
+    credit.style.fontSize = '12px';
+    credit.textContent = 'Phishing_Detector Developed by Amish CK';
+
     // Assemble the warning
     warning.appendChild(closeBtn);
     warning.appendChild(title);

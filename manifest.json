@@ -1,8 +1,8 @@
 {
     "manifest_version": 3,
-    "name": "PhishGuard - Phishing Detector",
+    "name": "Phishing-Detector - Phishing Detector",
     "version": "1.0",
-    "description": "Detects potential phishing websites and alerts users",
+    "description": "Detects potential phishing websites and alerts users. Developed by Amish CK",
     "icons": {
       "16": "icons/icon16.png",
       "48": "icons/icon48.png",

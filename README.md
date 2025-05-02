@@ -40,3 +40,7 @@ A Chrome extension that actively protects users from phishing attacks by analyzi
 ## Development
 ```bash
 git clone https://github.com/amishck/Phishing-Detector.git
+```
+
+# License
+MIT License - See LICENSE file for details

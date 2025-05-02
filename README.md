@@ -33,11 +33,10 @@ A Chrome extension that actively protects users from phishing attacks by analyzi
    - 🟡 Yellow warning for suspicious sites
 
 ## Screenshots
-| Safe Site | Warning | Danger |
-|-----------|---------|--------|
-| ![Safe](screenshots/safe.png) | ![Warning](screenshots/warning.png) | ![Danger](screenshots/danger.png) |
+| Safe Site | Danger |
+|-----------|--------|
+| ![Safe](screenshots/safe.png)  | ![Danger](screenshots/phishing.png) |
 
 ## Development
 ```bash
-git clone https://github.com/yourusername/Phishing-Detector.git
-cd Phishing-Detector
+git clone https://github.com/amishck/Phishing-Detector.git
